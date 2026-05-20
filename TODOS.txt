@@ -1,0 +1,2 @@
+- [] In the lexer keeps track of the line and column to show in error messages.
+Also track the filenames
